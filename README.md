@@ -2,10 +2,10 @@
   <h1>Hi, I'am Evgenii Bykovskii.</h1>
   <img src="./images/scale_1200.png"/>
   <div id="badges">
-  <a href="https://t.me/EugeneBu">
-    <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram" alt="Telegram Badge"/>
-  </a>
-</div>
+      <a href="https://t.me/EugeneBu">
+        <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram" alt="Telegram Badge"/>
+      </a>
+  </div>
 </div>
 
 ___
@@ -15,9 +15,9 @@ I'm a Python Developer.
 
 ___
 ### :hammer_and_wrench: Languages and Tools :
-
+<div>
 <table>
-<tr align="center" width="100%">
+<tr align="center">
 <td valign="top" width="33%">
 
 #### Frontend  
@@ -53,5 +53,6 @@ ___
 
 </td>
 </tr>
-</table>  
+</table>
+</div>
 
