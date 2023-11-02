@@ -16,7 +16,7 @@ I'm a Python Developer.
 ___
 ### :hammer_and_wrench: Languages and Tools :
 
-<table style="width:100%">
+<table style="width: 100%; text-align: center">
 <tr>
 <td valign="top" width="33%">
 
