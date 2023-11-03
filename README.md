@@ -56,3 +56,11 @@ ___
 </table>
 </div>
 
+___
+
+<div id="badges" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eugene-Bykovsky&layout=compact&theme=vision-friendly-dark">
+   </img>
+   <img src="https://github-readme-stats.vercel.app/api?username=Eugene-Bykovsky&show_icons=true&theme=material-palenight">
+   </img>
+</div>
