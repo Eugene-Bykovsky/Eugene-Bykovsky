@@ -36,6 +36,7 @@ ___
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>
+<a href="https://fastapi.tiangolo.com" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="Fastapi" height="50" /></a>
 </div>
 
 </td>
@@ -58,9 +59,9 @@ ___
 
 ___
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eugene-Bykovsky&theme=zenburn)
 <div id="badges" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eugene-Bykovsky&layout=compact&theme=vision-friendly-dark">
-   </img>
-   <img src="https://github-readme-stats.vercel.app/api?username=Eugene-Bykovsky&show_icons=true&theme=material-palenight">
+   <img src="https://github-readme-stats.vercel.app/api?username=Eugene-Bykovsky&show_icons=true&theme=zenburn">
    </img>
 </div>
+
