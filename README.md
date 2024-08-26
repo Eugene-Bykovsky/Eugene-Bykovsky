@@ -11,7 +11,7 @@
 ___
 ### About Me :
 
-I'm a Python Developer.
+
 
 ___
 ### :hammer_and_wrench: Languages and Tools :
